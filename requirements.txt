@@ -1,0 +1,10 @@
+ipykernel
+azure-ai-ml
+azure-identity
+pandas
+numpy
+python-dotenv
+python-json-config
+
+
+
