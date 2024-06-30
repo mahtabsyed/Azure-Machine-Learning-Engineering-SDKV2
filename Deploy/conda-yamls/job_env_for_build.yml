@@ -1,0 +1,12 @@
+name: job_env
+dependencies:
+- python=3.10
+- scikit-learn=1.1.3
+- ipykernel
+- matplotlib
+- pandas
+- pip
+- pip:
+  - mlflow==2.0.1
+  - azure-ai-ml==1.1.2
+  - azureml-mlflow==1.48.0
